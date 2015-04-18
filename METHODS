@@ -1,0 +1,22 @@
+base url: /rss-provider/api/v1.0
+
+/user/new
+username:	desired username
+password:	desired password
+
+/feed/$id
+username:	your username
+password:	your password
+$id:		the id of the feed you want
+
+/feed/new
+username:	your username
+password:	your password
+title:		friendly title for the feed
+uri:		url for the feed
+
+method DELETE
+/feed/$id
+username:	your username
+password:	your password
+$id:		the id if the feed you want to delete

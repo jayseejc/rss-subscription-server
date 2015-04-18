@@ -1,0 +1,6 @@
+# rss-provider.sublime-project
+{
+	"settings": {
+		"python_interpreter": "$project_path/flask/bin/python2"
+	}
+}
